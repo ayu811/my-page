@@ -3,7 +3,6 @@ import { useState } from 'react';
 import Head from 'next/head';
 import Image from 'next/image'
 
-
 export default function Home() {
   const [activeTab, setActiveTab] = useState('about');
   const [isMenuOpen, setIsMenuOpen] = useState(false); // ハンバーガーメニューの状態管理
