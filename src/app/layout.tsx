@@ -10,8 +10,8 @@ const NotoSans = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "Quantum Annealing For Everyone",
-  description: "Quantum Annealing For Everyone",
+  title: "Ayu's Portfolio Web Page",
+  description: "Hayato Ayuzawa(鮎澤颯人)のポートフォリオサイトです。",
 };
 
 export default function RootLayout({
