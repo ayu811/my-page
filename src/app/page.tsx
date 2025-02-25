@@ -114,7 +114,7 @@ export default function Home() {
                 <div className="w-full h-full bg-gray-300 pr-24">
                 <Image
                   className='mt-24 scale-[4] md:scale-[3]'
-                  src="/my-page/profile.jpg"
+                  src="/profile.jpg"
                   width={1000}
                   height={1000}
                   alt="Picture of the author"/>
